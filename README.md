@@ -10,7 +10,7 @@ This repository contains my solutions to various LeetCode problems. I use this s
 - *Category* : [Math](https://leetcode.com/tag/math "https://leetcode.com/tag/math")
 - *Programming language used* - [Java](https://www.java.com/en/)
 
-In this problem given an integer x, return true if x is a *palindrome*__, and false otherwise.
+In this problem given an integer x, return true if x is a *palindrome*, and false otherwise.
 given examples are, 
 
 >*Example 1:*
