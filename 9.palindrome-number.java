@@ -1,9 +1,3 @@
-/*
- * @lc app=leetcode id=9 lang=java
- *
- * [9] Palindrome Number
- */
-
 class Solution {
     public boolean isPalindrome(int x) {
         //Constraints
@@ -36,5 +30,4 @@ class Solution {
         }
     }
 }
-// @lc code=end
-
+//https://github.com/EmilWijayasekara
