@@ -38,6 +38,7 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 [![Screenshot-2023-12-15-114734.png](https://i.postimg.cc/0Qn7PPCh/Screenshot-2023-12-15-114734.png)](https://postimg.cc/ygJDTqtT)
 
 In my approach, first, I converted the integer into a char array because then the array can be reversed. And using a for loop, I reversed the char array.
+
 [![Screenshot-2023-12-15-114741.png](https://i.postimg.cc/xCnLwcLK/Screenshot-2023-12-15-114741.png)](https://postimg.cc/PLVLZf3x)
 
 Using the for loop, I changed the index of arrays to reverse the order. In this case, if the array length is 3 then,
@@ -55,6 +56,7 @@ Next, I tried to convert this char array to a string and then to integer type, w
     	at Main.isPalindrome(Main.java:33)
     	at Main.main(Main.java:3)
 Then I had to convert this into a long type.
+
 [![Screenshot-2023-12-15-114750.png](https://i.postimg.cc/zfmCkdB2/Screenshot-2023-12-15-114750.png)](https://postimg.cc/sMcGj455)
 
 Finally, I compared both long and int values and then returned the true or false value.
