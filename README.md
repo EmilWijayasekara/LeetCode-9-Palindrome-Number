@@ -60,3 +60,5 @@ Then I had to convert this into a long type.
 [![Screenshot-2023-12-15-114750.png](https://i.postimg.cc/zfmCkdB2/Screenshot-2023-12-15-114750.png)](https://postimg.cc/sMcGj455)
 
 Finally, I compared both long and int values and then returned the true or false value.
+
+### If you have suggestions for improvement or would like to contribute to this solution, feel free to create a pull request. 🙌😇
