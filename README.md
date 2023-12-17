@@ -1,5 +1,5 @@
 
-# LeetCode Practice
+# LeetCode Practice (Day 2)
 
 This repository contains my solutions to various LeetCode problems. I use this space to practice coding, improve my algorithmic skills, and showcase my solutions.
 
